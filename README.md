@@ -1,8 +1,5 @@
 # EVA BILINGUAL AI 
 Eva Education - Tutora Bilingue AI - GFS Crew
-[index.html](https://github.com/user-attachments/files/29898337/index.html)
-<!DOCTYPE html>
-<html lang="es">
 <head>
 <!-- Build-1783693882: v3 1783693520 v2 -->
 <meta charset="UTF-8">
